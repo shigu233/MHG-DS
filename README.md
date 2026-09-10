@@ -10,7 +10,7 @@ All hazard regions, including landslides, collapses, and cracks, are labeled as 
 
 | Clear Image | Hazy Image | Mask |
 | --- | --- | --- |
-| ![](docs/assets/landslide_clear.png) | ![](docs/assets/landslide_hazy.png) | ![](docs/assets/landslide_mask.png) |
+| ![](assets/landslide_clear.jpg) | ![](assets/landslide_hazy.jpg) | ![](assets/landslide_mask.png) |
 | ![](docs/assets/collapse_clear.png) | ![](docs/assets/collapse_hazy.png) | ![](docs/assets/collapse_mask.png) |
 | ![](docs/assets/crack_clear.png) | ![](docs/assets/crack_hazy.png) | ![](docs/assets/crack_mask.png) |
 
